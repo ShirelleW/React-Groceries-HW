@@ -1,0 +1,13 @@
+h3{
+    background-color: pink;
+    text-align: center;
+}
+#create-product{
+    display: flex;
+    justify-content: center;
+    border: 3px solid pink;
+}
+
+ul{
+    text-align: center;
+}
